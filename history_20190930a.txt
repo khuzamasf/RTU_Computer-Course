@@ -1,0 +1,126 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/khuzamasf/RTU_Computer-Course 
+    4  ls l
+    5  ks
+    6  ls
+    7  cd RTU_Computer-Course/
+    8  ls
+    9  ls -l
+   10  pwd
+   11  ls -k
+   12  ls -l
+   13  cd works/
+   14  mkdir worls
+   15  rmdir worls
+   16  mkdir works
+   17  ls -l
+   18  cd works/
+   19  nono elementary.c
+   20  nano elementary.c
+   21  gcc elementary.c
+   22  nano elementary.c
+   23  gcc elementary.c
+   24  ls -l
+   25  gcc elementary.c -o prgl
+   26  ls -l
+   27  *R
+   28  i
+   29  prgl1
+   30  echo $path
+   31  echo $PATH
+   32  cat a.out
+   33  cat elementary.c
+   34  ./prgl
+   35  prgl
+   36  ./prgl
+   37  pwd
+   38  /home/user/RTU_Computer-Course/wroks/prgl
+   39  /home/user/RTU_Computer-Course/works/prgl
+   40  ls -l
+   41  pwd
+   42  ls -l
+   43  cat elementary.c
+   44  gcc elementary .c
+   45  ./a.out
+   46  ./kjh
+   47  ./a.out
+   48  cp elementary.c hello.c
+   49  ls -l
+   50  nano hello.c
+   51  cat hello.c
+   52  gcc hello.c
+   53  cat hello.c
+   54  ls -l
+   55  gcc hello.c
+   56  ls -l
+   57  cat hello.c
+   58  nano hello.c
+   59  gcc hello.c -o prg2
+   60  cat hello.c
+   61  gcc hello.c -o prg2
+   62  ls-l
+   63  ls -l
+   64  nano hello.c
+   65  cat hello.c
+   66  gcc hello.c -o prg2
+   67  ls -l
+   68  ./prg2
+   69  cat hello.cpwd
+   70  cat hello.c
+   71  gcc hello.c -o Khuz
+   72  ls -l
+   73  ./khuz
+   74  ./Khuz
+   75  nano hello.c
+   76  gcc hello.c -o khuz1
+   77  ls -l
+   78  ls
+   79  ls -l
+   80  printf(s)
+   81  ls -l
+   82  cat khuz2
+   83  nano hello.c
+   84  gcc hello.c -o khuz2
+   85  nano hello.c
+   86  gcc hello.c -o khuz2
+   87  gcc hello.c -o prg3
+   88  cat hello.c
+   89  nano hello.c
+   90  gcc hello.c -o prg3
+   91  ./prg.3
+   92  ./prg3
+   93  cat hello.c
+   94  ./prg3
+   95  nano hello.c
+   96  cat hello.c
+   97  gcc hello.c -o prg4
+   98  cat hello.c
+   99  ./prg4
+  100  prg4
+  101  ./prg4 
+  102  ls -l
+  103  rm prg1
+  104  rm prgl
+  105  ls
+  106  ls prg*
+  107  rm prg*
+  108  ls -l
+  109  rm khuz
+  110  rm Khuz
+  111  ls
+  112  rm a.out
+  113  ls -l
+  114  rm cc
+  115  ls -l
+  116  ls
+  117  cd ..
+  118  history > history_20190930a.txt
+  119  ls -l
+  120  ./git-upload 20190930_11_55
+  121  ls -l
+  122  nano git-upload
+  123  ls -l
+  124  chmod 744 git-upload 
+  125  ls -l
+  126  history > history_20190930a.txt
