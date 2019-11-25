@@ -1,0 +1,19 @@
+0. We are working in our repositories inside directory - works
+
+1. Get familiar with conditional operator:
+create directory - conditions
+try examples from:
+https://github.com/tatusmatrix/RTR105_2019/tree/master/darbiM01/conditions
+
+
+2. Get familiar with loop operators:
+create directory - loops and subdirectories - for and while 
+try examples from:
+
+https://github.com/tatusmatrix/RTR105_2019/tree/master/darbiM01/loops/while 
+
+
+
+
+3. At 13:30 I will start to ask everyone - how to code these conditions and loops and working?
+
