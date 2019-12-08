@@ -16,8 +16,8 @@ void main ()
 
   while (i_main! = n)
    {
-   printf ("You have entered% d \ n" in response to my user function actions, i_main);
+   printf ("You have entered% d \n" in response to my user function actions, i_main);
    i_main = user_function_5 ();
    }
-  printf ("Since you've entered 5, there are no more questions! \ n");
+  printf ("Since you've entered 5, there are no more questions! \n");
   }
