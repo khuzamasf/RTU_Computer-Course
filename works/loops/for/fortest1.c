@@ -11,12 +11,12 @@ void main ()
    scanf ("% d", & number2);
 
    if (number1> number2)
-    printf ("Your first number% d is> than the second number% d \ n", number1, number2);
+    printf ("Your first number% d is> than the second number% d \n", number1, number2);
    // break;
    printf ("Dear user, do you want to continue?");
-   printf ("(yes - any number except 0) \ n");
+   printf ("(yes - any number except 0) \n");
    scanf ("% d", & yes_no);
    }
 
-  printf ("This text will appear anyway \ n");
+  printf ("This text will appear anyway \n");
   }
